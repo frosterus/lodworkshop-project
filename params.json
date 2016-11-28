@@ -1,0 +1,6 @@
+{
+  "name": "Lodworkshop-project",
+  "tagline": "SWIB rocks!",
+  "body": "#SWIB16 LOD-workshop project\r\n\r\nThe **locations.csv** file maps \r\nlocation names to geo coordinates \r\nformatted as \"latitude,longitude\".\r\n\r\nTodo:\r\n- [x] Add Bonn\r\n- [ ] Add Helsinki\r\n- [ ] Add Abu Dhabi\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
